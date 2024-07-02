@@ -1,0 +1,11 @@
+/*css module style definitions here*/
+
+.homeBg {
+  background-image: url("../../../public//images/horizontal-car.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25rem;
+  background-position: center;
+
+  width: 100%;
+}
